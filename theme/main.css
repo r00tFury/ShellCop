@@ -21,7 +21,7 @@
 }
 
 .wallpaper {
-    background-image: url('/theme/Assets/wallpaper/2025-06-28_22.19.48.png');
+    background: #151615;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
