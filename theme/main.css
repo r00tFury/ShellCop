@@ -20,7 +20,11 @@
     background: rgba(143, 148, 251, 0.15);;
 }
 
-.wallpaper {
+body{
+   background: #151615;
+}
+
+/*.wallpaper {
     background: #151615;
     background-size: cover;
     background-position: center;
@@ -31,7 +35,7 @@
     top: 0;
     left: 0;
     z-index: -1;
-}
+} */
 
 .container {
     max-width: 1200px;
